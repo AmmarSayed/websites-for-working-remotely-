@@ -10,6 +10,7 @@
 - naukrigulf (Indian website target Arab gulf)
 
 # World Wide Websites
+- [Upstack.co](https://upstack.co/)
 - [remoteok.io](http://remoteok.io/)
 - [andela.com](http://andela.com/)
 - [microverse.org](http://microverse.org/)
@@ -21,7 +22,6 @@
 - [jobspresso.co](http://jobspresso.co/)
 - [x-team.com](http://x-team.com/)
 - [remotive.io](http://remotive.io/)
-
 - [weworkremotely.com](http://weworkremotely.com/)
 - [remote.co](http://remote.co/)
 - [Codementor.io](https://www.codementor.io/)
