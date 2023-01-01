@@ -33,3 +33,6 @@
 - [monster.com](http://monster.com/)
 - [turing.ly](http://turing.ly/)
 - [vanhack.com](https://vanhack.com/)
+
+# PDF File for companies accepts remote work
+[https://github.com/AmmarSayed/websites-for-working-remotely-/blob/main/Remote%20Work%20Companies.pdf]
